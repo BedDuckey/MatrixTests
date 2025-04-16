@@ -1,0 +1,11 @@
+C:\Users\spudi\source\repos\MartixCalcApp\bin\Debug\MartixCalcApp.exe.config
+C:\Users\spudi\source\repos\MartixCalcApp\bin\Debug\MartixCalcApp.exe
+C:\Users\spudi\source\repos\MartixCalcApp\bin\Debug\MartixCalcApp.pdb
+C:\Users\spudi\source\repos\MartixCalcApp\bin\Debug\MatrixCalc.dll
+C:\Users\spudi\source\repos\MartixCalcApp\bin\Debug\MatrixCalc.pdb
+C:\Users\spudi\source\repos\MartixCalcApp\bin\Debug\MatrixCalc.dll.config
+C:\Users\spudi\source\repos\MartixCalcApp\obj\Debug\MartixCalcApp.csproj.AssemblyReference.cache
+C:\Users\spudi\source\repos\MartixCalcApp\obj\Debug\MartixCalcApp.csproj.CoreCompileInputs.cache
+C:\Users\spudi\source\repos\MartixCalcApp\obj\Debug\MartixCa.2EE2B66B.Up2Date
+C:\Users\spudi\source\repos\MartixCalcApp\obj\Debug\MartixCalcApp.exe
+C:\Users\spudi\source\repos\MartixCalcApp\obj\Debug\MartixCalcApp.pdb

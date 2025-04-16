@@ -1,0 +1,7 @@
+C:\Users\spudi\source\repos\MatrixCalc\bin\Debug\MatrixCalc.pdb
+C:\Users\spudi\source\repos\MatrixCalc\obj\Debug\MatrixCalc.csproj.AssemblyReference.cache
+C:\Users\spudi\source\repos\MatrixCalc\obj\Debug\MatrixCalc.csproj.CoreCompileInputs.cache
+C:\Users\spudi\source\repos\MatrixCalc\obj\Debug\MatrixCalc.pdb
+C:\Users\spudi\source\repos\MatrixCalc\bin\Debug\MatrixCalc.dll.config
+C:\Users\spudi\source\repos\MatrixCalc\bin\Debug\MatrixCalc.dll
+C:\Users\spudi\source\repos\MatrixCalc\obj\Debug\MatrixCalc.dll
