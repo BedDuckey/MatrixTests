@@ -8,7 +8,7 @@ internal class Program
     static void Main(string[] args)
     {
         Console.OutputEncoding = Encoding.UTF8;
-        Console.WriteLine("🟢 Матричный калькулятор 🟢\n");
+        Console.WriteLine(" Матричный калькулятор \n");
 
         // 1. Инициализация всех зависимостей
         IMatrixValidator validator = new MatrixValidator();
